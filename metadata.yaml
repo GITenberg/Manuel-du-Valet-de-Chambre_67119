@@ -1,0 +1,31 @@
+_repo: Manuel-du-Valet-de-Chambre_67119
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-01-07'
+identifiers:
+  gutenberg: '67119'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5557393f
+pgterms:marc905: 20210206225644anonymous
+pgterms:marc906: '1903'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Périsse frères,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Manuel du Valet de Chambre
+url: http://www.gutenberg.org/ebooks/67119
