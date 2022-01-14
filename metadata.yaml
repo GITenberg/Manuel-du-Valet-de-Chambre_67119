@@ -1,5 +1,8 @@
 _repo: Manuel-du-Valet-de-Chambre_67119
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67119-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - https://en.wikipedia.org/wiki/Anonymous_work
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67119#Manuel-du-Valet-de-Chambre
 gutenberg_issued: '2022-01-07'
 identifiers:
   gutenberg: '67119'
